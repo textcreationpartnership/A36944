@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Art and nature joyn hand in hand. Or, The poor mans daily companion Wherein is shew'd for two pence charge, how you may cure any distempers incident to humane bodys: as first, the magical and physical vertues of beasts and birds, of trees and herbs, ... for curing of most diseases astrologically; a brief treatise of urines, as well of mens as of womens, to judge by the colour ... also a charme to know whether the sick party shall live or die; also to cure the Kings evil, ... against wry-necks, quartane agues, for one that cannot make water; how to make the true antidote powder called, the orvietane of Rome: to take away pearls, and films from the eyes; elixir vitæ, or, elixir of life, Gascoynes powder, the royal styptich water, which stops blood in an instant, also good for watery eyes, rheumatick eyes, inflamations in your eyes, pin, or web, and strengthens them to admiration; with many other things worthy of note. By John Durant, student in physick...</title>
+            <author>Durant, John, student in physick.</author>
+         </titleStmt>
+         <extent>Approx. 47KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36944</idno><idno type="EEBO-CITATION">99835116</idno>
+  <idno type="VID">39774</idno>
+  <idno type="EEBO-PROQUEST">2248544092</idno>
+  
+            <idno type="STC">Wing D2681A</idno>
+            <idno type="STC">ESTC R218196</idno>
+            <idno type="PROQUEST">99835116</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99835116e"/>
+            <note>(EEBO-TCP ; phase 2, no. A36944)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39774)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2026:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Art and nature joyn hand in hand. Or, The poor mans daily companion Wherein is shew'd for two pence charge, how you may cure any distempers incident to humane bodys: as first, the magical and physical vertues of beasts and birds, of trees and herbs, ... for curing of most diseases astrologically; a brief treatise of urines, as well of mens as of womens, to judge by the colour ... also a charme to know whether the sick party shall live or die; also to cure the Kings evil, ... against wry-necks, quartane agues, for one that cannot make water; how to make the true antidote powder called, the orvietane of Rome: to take away pearls, and films from the eyes; elixir vitæ, or, elixir of life, Gascoynes powder, the royal styptich water, which stops blood in an instant, also good for watery eyes, rheumatick eyes, inflamations in your eyes, pin, or web, and strengthens them to admiration; with many other things worthy of note. By John Durant, student in physick...</title>
+                  <author>Durant, John, student in physick.</author>
+               </titleStmt>
+               <extent>[1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Sam. Clark, in George-yard, in Lombard-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the British Library, London, England.</note>
+                  <note>With a final advertisement leaf.</note>
+                  <note>Print show-through; title page stained and mutilated with some loss of print.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Human anatomy --  Early works to 1800.</term>
+               <term type="topical_term">Diseases --  Causes and theories --  Early works to 1800.</term>
+               <term type="topical_term">Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:39774:1"/>
+            <p>ART and NATURE JOYN HAND in HAND. Or, The Poor Mans daily Companion. Wherein is shew'd for TWO PENCE Charge, how you may Cure any Distempers Incident to HUMANE BODYS:</p>
+            <p>As first, The <hi>Magical</hi> and <hi>Physical</hi> Vertues of <hi>Beasts</hi> and <hi>Birds,</hi> of <hi>Trees</hi> and <hi>Herbs, Charms</hi> to cure <hi>Agues,</hi> the true time for gathering of <hi>Herbs,</hi> at the right <hi>Planetary</hi> Hours for Ever, and their Vertues for curing of most Diseases <hi>Astrologically;</hi> A brief Treatise of <hi>Urines,</hi> as well of <hi>Mens</hi> as of <hi>Wo<g ref="char:EOLhyphen"/>mens,</hi> to judge by the Colour which betokneth <hi>Health,</hi> which <hi>Sickness,</hi> and which <hi>Death;</hi> Also to judge the Danger of falling <hi>Sick</hi> by the Age of the <hi>Moon;</hi> Also a <hi>Charme</hi> to know whether the <hi>Sick</hi> Party shall <hi>Live</hi> or <hi>Die;</hi> Also to cure the <hi>Kings Evil,</hi> with a Rule to know the <hi>Kings Evil:</hi> Against <hi>Wry-Necks, Quartane Agues,</hi> for one that cannot make <hi>Water;</hi> how to make the true <hi>Antidote Powder</hi> cal<g ref="char:EOLhyphen"/>led, <hi>The Orvietane of</hi> Rome: To take away <hi>Pearls,</hi> and <hi>Films</hi> from the <hi>Eyes; Elixir Vitae,</hi> or, <hi>Elixir of Life, Gascoynes Powder,</hi> the Royal <hi>Styptick Water,</hi> which stops <hi>Blood</hi> in an instant, also good for <hi>Wa<g ref="char:EOLhyphen"/>tery Eyes, Rheumatick Eyes, Inflamations</hi> in your <hi>Eyes, Pin,</hi> or <hi>Web,</hi> and strengthens them to Admirati<g ref="char:EOLhyphen"/>on; with many other things worthy of Note. By <hi>John Durant,</hi> Student in <hi>Physick</hi> and <hi>Astrology.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Sam. Clark,</hi> in <hi>George-yard,</hi> in <hi>Lombard-street,</hi> 1697.</p>
+            <pb facs="tcp:39774:2"/>
+            <gap reason="duplicate" resp="#oxf" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div n="animal" type="charms">
+            <pb facs="tcp:39774:3"/>
+            <pb n="3" facs="tcp:39774:3"/>
+            <head>THE <hi>Magical</hi> and <hi>Physical</hi> VERTUES OF BEASTS and BIRDS.</head>
+            <div type="charm">
+               <head>Of the <hi>Hare.</hi>
+               </head>
+               <p>THe Heart of a <hi>Hare</hi> dried, and worn about the Neck cureth the Cramp; and Drunk in <hi>Wormwood-Water,</hi> cureth all the Worms in the Stomach or Belly.</p>
+            </div>
+            <div type="charm">
+               <head>Of the <hi>Mole,</hi> or <hi>Want.</hi>
+               </head>
+               <p>The Bones of a Dog <hi>Want</hi> sewed up in Silk, and worn about the Neck, causeth a Woman to Conceive.</p>
+            </div>
+            <div type="charm">
+               <head>Of the <hi>Tortoise.</hi>
+               </head>
+               <p>Take the Shell of a <hi>Tortoise</hi> Egg, and wear it about you, and all that while you shall never have desire of <hi>Venery.</hi>
+               </p>
+            </div>
+            <div type="charm">
+               <head>Of a <hi>Ram.</hi>
+               </head>
+               <p>He being a Creature of the <hi>Sun,</hi> and if he
+<pb n="4" facs="tcp:39774:4"/> be Knock'd down, or Kill'd at any of those times, when Herbs of the <hi>Sun</hi> is to be gather'd, as shall be shewn hereafter at large, and Rings made of the Horns, and one put on the Finger next the little Finger on each Hand, cures the <hi>Cramp</hi> to Admiration.</p>
+            </div>
+            <div type="charm">
+               <head>Of a <hi>Magpye.</hi>
+               </head>
+               <p>Being a Bird of <hi>Mars,</hi> if it be kill'd at any of those times when any Herbs of <hi>Mars</hi> are to be gathered, and the Brains of it taken out and dryed to Powder, and put into white Wine, and the Wine drunk, if any one hath not Pissed in three or four days, within an hour it causeth them to Piss abundantly.</p>
+            </div>
+            <div type="charm">
+               <head>Of a <hi>Hedg-Sparrow.</hi>
+               </head>
+               <p>Being a Bird of <hi>Venus,</hi> and killed at any of those times as afore was shewn, and Salted well, and eaten Raw, is one of the best Re<g ref="char:EOLhyphen"/>medys to cure the <hi>Stone</hi> in the <hi>Reins</hi> or <hi>Bladder,</hi> or <hi>Vritory</hi> Passages.</p>
+            </div>
+            <div type="charm">
+               <head>Of the <hi>Land Toad.</hi>
+               </head>
+               <p>Take a great <hi>Toad,</hi> kill him, and put him into a Horse Dung-hill, there let him lie, and the <hi>Ants</hi> will consume the Flesh; in the Head you shall find a thing like a Stone, great or little, the which being set in Gold, and worn about a Man or Woman, it doth give them warning of any Mischief, or Ill to them, that weareth it, by changing Colours in divers manners.</p>
+            </div>
+            <div type="charm">
+               <head>Of a <hi>Spider.</hi>
+               </head>
+               <p>Take a <hi>Spider</hi> and shut it up close in a Wal<g ref="char:EOLhyphen"/>nut-Shell, and wear it about you, cures an <hi>Ague</hi> to Admiration.</p>
+            </div>
+            <div type="charm">
+               <pb n="5" facs="tcp:39774:4"/>
+               <head>Of a <hi>Stag.</hi>
+               </head>
+               <p>The Horns of a <hi>Stag</hi> kill'd in <hi>October,</hi> and being dryed, and one Dram thereof taken, doth cause one to Vomit. And take the Bones of his Heart, being kill'd in <hi>May,</hi> and worn about one who hath the <hi>Falling-Sickness,</hi> cureth him in a very short time; it cureth the Passion of the Heart; and is a very wholesome thing. And being taken for a Fume, doth cure the <hi>Fits of the Mother.</hi>
+               </p>
+            </div>
+            <div type="charm">
+               <head>Of the <hi>Row-Buck.</hi>
+               </head>
+               <p>Take the Horns of him and make Beads thereof, and wear them about your Neck, or Wrists, it causeth Coception; and if a Men weareth the same, he shall not have his natu<g ref="char:EOLhyphen"/>ral course of Seed, though he be with a Woman.</p>
+            </div>
+            <div type="charm">
+               <head>Of the <hi>Squirrel.</hi>
+               </head>
+               <p>Take his Fore Teeth and wear them, and you shall never be troubled with the Cramp.</p>
+            </div>
+            <div type="charm">
+               <head>Of the <hi>Water Rat.</hi>
+               </head>
+               <p>Take his Shin and Dry it and Dress it as a Furr, and being worn about a Woman, it cu<g ref="char:EOLhyphen"/>reth the <hi>Mother.</hi> His Bones beaten to Powder doth the same effect being Drunk; and it stops the <hi>Ʋrine</hi> of them that have no Retention, and whose Water goeth from them by Day and Night.</p>
+            </div>
+         </div>
+         <div n="plant" type="charms">
+            <pb n="6" facs="tcp:39774:5"/>
+            <head>The Magical vertue of <hi>Trees</hi> and <hi>Herbs.</hi>
+            </head>
+            <div type="charm">
+               <head>
+                  <hi>The</hi> Pine Tree.</head>
+               <p>THE <hi>Pine-Aples</hi> being gathered when they are full Ripe, the Kernels being worn by any, the said Party shall have no Lice a<g ref="char:EOLhyphen"/>bout him. The same do cause a Woman to her <hi>Terms.</hi> The Salt of <hi>Pine-Apples</hi> is an excel<g ref="char:EOLhyphen"/>lent Medicine for divers things, especially for the <hi>Stone</hi> and <hi>Strangury.</hi>
+               </p>
+            </div>
+            <div type="charm">
+               <head>Of the <hi>Orange Tree.</hi>
+               </head>
+               <p>Take the Leaves of the Tree and carry them in a little Bag bound to the Navel, and it will cause a Woman speedily to Conceive, and al<g ref="char:EOLhyphen"/>so to keep in the Conception or Child. The Leaves powdered and drank in White Wine, cureth the Green Sickness; and stopeth the overflowing of the Seed: The Juice of <hi>Oranges</hi> Pounded, and the Peels Distilled, is very good for the Stone, with <hi>Fennel Seed, Pursey Seed,</hi> an Ounce, of <hi>Dill Seed,</hi> half an Ounce.</p>
+            </div>
+            <div type="charm">
+               <head>Of the <hi>Nutmeg Tree.</hi>
+               </head>
+               <p>Take a <hi>Nutmeg</hi> that hath the <hi>Mace</hi> on him, and sew it in a Linnen Bag, and bind it about a Womans Leg, and another to her Navel, and it causeth speedy Delivery; It will also cure the <hi>Squinancy,</hi> if it be worn about the Neck: The Rind of this Tree Boyled in fair Water and drunk, stops all kind of <hi>Fluxes.</hi>
+               </p>
+            </div>
+            <div type="charm">
+               <head>Of the <hi>Pomegranate Tree.</hi>
+               </head>
+               <p>Take the Juice of a <hi>Pomgranate,</hi> and one part of the Kernels, and of <hi>Rose Water</hi> two
+<pb n="7" facs="tcp:39774:5"/> parts, and put it together, and give it to a young Child who Sucks, being sweetned with Sugar, it doth firmly knit the Navel, and keep him from a <hi>Rupture;</hi> but this said Juice and In<g ref="char:EOLhyphen"/>gredients must be first twice Distilled.</p>
+            </div>
+            <div type="charm">
+               <head>Of the <hi>Lemmon Tree</hi>
+               </head>
+               <p>Take a green <hi>Lemmon</hi> and wet it in <hi>Wine Vinegar,</hi> and sew it in a Bag, and bind it to the Nape of the Neck, and immediately stops the Bleeding.</p>
+            </div>
+            <div type="charm">
+               <head>Of the <hi>Sassafras Tree.</hi>
+               </head>
+               <p>This is an Excellent Tree, and of Divers Vertues, his Magical vertues are by his Smell, and that is for the <hi>Megrim</hi> and such like pains of the Head; and most Excellent against the <hi>Falling Sickness.</hi> The Decoction of <hi>Sassafras</hi> is a great dryer, it cureth the <hi>Rheum;</hi> the <hi>Salt</hi> of it is a very Excellent thing for many <hi>Dis<g ref="char:EOLhyphen"/>eases,</hi> but especially for <hi>Morbus Gallicus,</hi> the Dose is half a Dram in Butter, to be taken in a Pill or two.</p>
+            </div>
+            <div type="charm">
+               <head>Of the <hi>Yew Tree.</hi>
+               </head>
+               <p>The Berries of a <hi>Yew Tree</hi> dried, and worn in a little Bag about the Neck, doth wonder<g ref="char:EOLhyphen"/>fully help the <hi>Trembling of the Heart,</hi> and is good against the <hi>Kings Evil,</hi> and stayeth <hi>Bleed<g ref="char:EOLhyphen"/>ing at the Nose;</hi> one Dram of the Powder of them being taken in Drink, doth stop <hi>Fluxes,</hi> the <hi>Running of the Reins;</hi> also it cureth the <hi>Scalding</hi> of the <hi>Ʋrine.</hi>
+               </p>
+            </div>
+            <div type="charm">
+               <head>Of the <hi>Lime Tree.</hi>
+               </head>
+               <p>Take a piece of a Fingers breath, of the big<g ref="char:EOLhyphen"/>ness and square of the Timber of this Tree,
+<pb n="8" facs="tcp:39774:6"/> and if any one be Hurt, or Bleed at the Nose, write his Name on one side of the Stick, and on the contrary side the Charactor of <hi>OR,</hi> then burn the Stick, and it ceastth Bleeding Immediately.</p>
+            </div>
+            <div type="charm">
+               <head>
+                  <hi>Of the</hi> Wild Ash Tree.</head>
+               <p>Take a cluster of the <hi>Green Berries</hi> and con<g ref="char:EOLhyphen"/>vey them about the Party Suspected to be a <hi>Witch,</hi> and then examine her, and she will confess. Take a cluster of the same <hi>Berries</hi> and hang them about a Horse Neck, and it will cure him of the <hi>Farcy</hi> or <hi>Fashions.</hi> Take three Ripe <hi>Berries</hi> of the said Tree, and pound them, and give them in <hi>White Wine,</hi> and it doth absolutely cure the <hi>Yellow Jaundice.</hi>
+               </p>
+            </div>
+            <div type="charm">
+               <head>Of the <hi>Service Tree.</hi>
+               </head>
+               <p>The <hi>Fruit</hi> of it dryed and worn about the Neck stoppeth Bleeding; it causeth a Woman to keep her Child in the <hi>Womb,</hi> and not to <hi>Miscarry.</hi>
+               </p>
+            </div>
+            <div type="charm">
+               <head>Of the <hi>Mandrake Apple</hi>
+               </head>
+               <p>The <hi>Mandrake green Apple</hi> being worn about the Neck of the Party that hath a <hi>Wen,</hi> even as the <hi>Apple</hi> doth wither, so shall the <hi>Wen.</hi>
+               </p>
+            </div>
+            <div type="charm">
+               <head>Of the great <hi>French Mallows.</hi>
+               </head>
+               <p>Take of his Seeds and Lace them upon a Thread, and being worn about the Arms and Neck, it helpeth the <hi>Ague</hi> and <hi>Cramp;</hi> and bound about the gathering place of a Woman in <hi>Travel,</hi> it causeth speedy Delivery; the small <hi>Mallow</hi> is better than great, it suppleth and looseth; it is very good for a Bruise, and it is of a very cold Nature.</p>
+            </div>
+            <div type="charm">
+               <pb n="9" facs="tcp:39774:6"/>
+               <head>Of the <hi>Mouse-ear.</hi>
+               </head>
+               <p>Take of the Leaves of <hi>Mouse-ear,</hi> being an Herb of the <hi>Moon,</hi> and dry them, and being worn about a Man or Woman, no Infection can take hold of the Party.</p>
+            </div>
+            <div type="charm">
+               <head>Of <hi>Angelica.</hi>
+               </head>
+               <p>Take the Roots of <hi>Angelica</hi> and dry them hard, then cut them in square slices, and Lace them on a Silk Thread like to a <hi>Bracelet,</hi> and wear them about the Arm or Neck, and it keepeth away all Infection from the Body, and cureth the <hi>Spleen;</hi> and it will cause a Woman to <hi>Conceive.</hi>
+               </p>
+            </div>
+            <div type="charm">
+               <head>Of St. <hi>John's wort.</hi>
+               </head>
+               <p>This Herb being gathered when the Sun is in <hi>Aries,</hi> and then presently dryed, and made into fine Powder, and worn about the Neck in a Silk Bag, doth cure the <hi>Squinsey,</hi> the <hi>Mumps,</hi> the <hi>Megrim,</hi> and <hi>Disi<g ref="char:EOLhyphen"/>ness</hi> of the Head.</p>
+            </div>
+            <div type="charm">
+               <head>
+                  <hi>Of</hi> Carduus Benedictus.</head>
+               <p>The Down of <hi>Carduus</hi> being scraped into a little Bag, and worn about the Neck, doth cure the <hi>Kings Evil</hi> if it be not yet broken; it cureth also the <hi>Swelling</hi> of the <hi>Throat.</hi>
+               </p>
+            </div>
+            <div type="charm">
+               <head>Of <hi>Valerian.</hi>
+               </head>
+               <p>Take the Roots of <hi>Valerian,</hi> and cut them in pretty thick pieces like a Die, and dry them in an Oven, then Lace them on a Thread, and wear them about the Arms as a <hi>Bracelet,</hi> it will cure the <hi>Cramp;</hi> and it is exceeding good for the <hi>Shaking Palsey;</hi> and being bound about the Leg of a Woman, causeth her to
+<pb n="10" facs="tcp:39774:7"/> have speedy <hi>Delivery,</hi> and it causeth a Wo<g ref="char:EOLhyphen"/>man to have her <hi>Monthly Visiter.</hi>
+               </p>
+            </div>
+            <div type="charm">
+               <head>Against the <hi>Head-ach.</hi>
+               </head>
+               <p>℞ The Herb that groweth upon the Head of an <hi>Image,</hi> and it cureth the <hi>Head-ach</hi> by its <hi>Magical Vertue.</hi>
+               </p>
+            </div>
+            <div type="charm">
+               <head>Of <hi>Sparagus,</hi> an Herb of <hi>Jupitur.</hi>
+               </head>
+               <p>The Root being applyed and kept upon the Tooth, draws it forth without Pain.</p>
+            </div>
+            <div type="charm">
+               <head>Of <hi>Penony</hi> under the <hi>Sun.</hi>
+               </head>
+               <p>The Root being hung in Childrens Neck, is good against the <hi>Convulsion Fits, Pyrathrum,</hi> or St. <hi>Anthonies Fire,</hi> doth the same.</p>
+            </div>
+            <div type="charm">
+               <head>Of the <hi>Swallow.</hi>
+               </head>
+               <p>You shall find in young <hi>Swallows,</hi> taken at the Encrease of the <hi>Moon,</hi> and if you siit them by the Belly you'l find two little Stones, one of one colour, and the other of divers, which being tied in a piece of <hi>Calues</hi> Skin, and hung on the Neck, is good against the <hi>Episepsie,</hi> and cures it.</p>
+            </div>
+            <div type="charm">
+               <head>
+                  <hi>Of</hi> Plantane <hi>under</hi> Venus.</head>
+               <p>
+                  <hi>Plantane</hi> Roots being worn about the Neck, are good against the <hi>Kings Evil,</hi> and doth Dis<g ref="char:EOLhyphen"/>solve it.</p>
+            </div>
+         </div>
+         <div n="word" type="charms">
+            <pb n="11" facs="tcp:39774:7"/>
+            <head>MAGICAL CHARMES.</head>
+            <div type="charm">
+               <head>For an <hi>Ague.</hi>
+               </head>
+               <p>
+                  <hi>WHEN</hi> Jesus <hi>went up to the</hi> Cross <hi>to be</hi> Crucified, <hi>the</hi> Jews <hi>asked him, saying,</hi> Art thou affraid, or hast thou an <hi>Ague;</hi> Jesus <hi>answered and said,</hi> I am not affraid, neither have I the <hi>Ague,</hi> but all those which beareth the Name of <hi>Jesus</hi> about them, shall not be affraid, nor have the <hi>Ague, Amen,</hi> Sweet Jesus, <hi>Amen,</hi> Sweet Je<g ref="char:EOLhyphen"/>hovia, <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="charm">
+               <head>Another.</head>
+               <p>
+                  <hi>There came two</hi> Angels <hi>from the</hi> East, <hi>the one brought</hi> Fire, <hi>the other brought</hi> Frost, In the Name of the Father, Son, and Holy Ghost, out <hi>Frost,</hi> in <hi>Fire.</hi>
+               </p>
+            </div>
+            <div type="charm">
+               <head>Another.</head>
+               <p>Write these Characters in a piece of <hi>Parch<g ref="char:EOLhyphen"/>ment,</hi> and wear them about you, and they are these following,
+<list>
+                     <item>
+                        <hi>Abracadabra.</hi>
+                     </item>
+                     <item>
+                        <hi>Abracadabr.</hi>
+                     </item>
+                     <item>
+                        <hi>Abracadab.</hi>
+                     </item>
+                     <item>
+                        <hi>Abracada.</hi>
+                     </item>
+                     <item>
+                        <hi>Abracad.</hi>
+                     </item>
+                     <item>
+                        <hi>Abraca.</hi>
+                     </item>
+                     <item>
+                        <hi>Abrac.</hi>
+                     </item>
+                     <item>
+                        <hi>Abra.</hi>
+                     </item>
+                     <item>
+                        <hi>Abr.</hi>
+                     </item>
+                     <item>
+                        <hi>Ab.</hi>
+                     </item>
+                     <item>
+                        <hi>A.</hi>
+                     </item>
+                  </list>
+               </p>
+            </div>
+            <div type="charm">
+               <pb n="12" facs="tcp:39774:8"/>
+               <p>Or else take all the <hi>Nailes</hi> paring of the <hi>Toes</hi> and <hi>Fingers</hi> of any <hi>Man</hi> or <hi>Woman,</hi> lying Sick of an <hi>Intermittent Feaver,</hi> and to mix or Incor<g ref="char:EOLhyphen"/>porate them with <hi>Wax,</hi> so as the Party in the doing hereof do say these words, <hi>I am about a Remedy for the</hi> Tertian, Quotidian, <hi>or</hi> Quar<g ref="char:EOLhyphen"/>taine Ague, according as the Patient is trou<g ref="char:EOLhyphen"/>bled with the one or other of these <hi>Feavers,</hi> which done and said, to stick up the <hi>Wax</hi> upon the Door of another <hi>Man</hi> or <hi>Womans</hi> House that is not Sick at all, and that before the <hi>Sun</hi> be Risen, which no doubt will cure the Sick Person, and set the <hi>Ague</hi> or <hi>Feaver</hi> upon the well Person.</p>
+            </div>
+         </div>
+         <div type="directions_for_gathering_herbs">
+            <pb n="13" facs="tcp:39774:8"/>
+            <head>Planetary Hours.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">1</cell>
+                     <cell role="label">2</cell>
+                     <cell role="label">3</cell>
+                     <cell role="label">4</cell>
+                     <cell role="label">5</cell>
+                     <cell role="label">6</cell>
+                     <cell role="label">7</cell>
+                     <cell role="label">8</cell>
+                     <cell role="label">9</cell>
+                     <cell role="label">10</cell>
+                     <cell role="label">11</cell>
+                     <cell role="label">12</cell>
+                  </row>
+                  <row>
+                     <cell>Sunday</cell>
+                     <cell>☉</cell>
+                     <cell>♀</cell>
+                     <cell>☿</cell>
+                     <cell>☽</cell>
+                     <cell>♄</cell>
+                     <cell>♃</cell>
+                     <cell>♂</cell>
+                     <cell>☉</cell>
+                     <cell>♀</cell>
+                     <cell>☿</cell>
+                     <cell>☽</cell>
+                     <cell>♄</cell>
+                  </row>
+                  <row>
+                     <cell>Sunday Night.</cell>
+                     <cell>♃</cell>
+                     <cell>♂</cell>
+                     <cell>☉</cell>
+                     <cell>♀</cell>
+                     <cell>☿</cell>
+                     <cell>☽</cell>
+                     <cell>♄</cell>
+                     <cell>♃</cell>
+                     <cell>♂</cell>
+                     <cell>☉</cell>
+                     <cell>♀</cell>
+                     <cell>☿</cell>
+                  </row>
+                  <row>
+                     <cell>Munday.</cell>
+                     <cell>☽</cell>
+                     <cell>♄</cell>
+                     <cell>♃</cell>
+                     <cell>♂</cell>
+                     <cell>☉</cell>
+                     <cell>♀</cell>
+                     <cell>☿</cell>
+                     <cell>☽</cell>
+                     <cell>♄</cell>
+                     <cell>♃</cell>
+                     <cell>♂</cell>
+                     <cell>☉</cell>
+                  </row>
+                  <row>
+                     <cell>Munday Night.</cell>
+                     <cell>♀</cell>
+                     <cell>☿</cell>
+                     <cell>☽</cell>
+                     <cell>♄</cell>
+                     <cell>♃</cell>
+                     <cell>♂</cell>
+                     <cell>☉</cell>
+                     <cell>♀</cell>
+                     <cell>☿</cell>
+                     <cell>☽</cell>
+                     <cell>♄</cell>
+                     <cell>♃</cell>
+                  </row>
+                  <row>
+                     <cell>Tuesday.</cell>
+                     <cell>♂</cell>
+                     <cell>☉</cell>
+                     <cell>♀</cell>
+                     <cell>☿</cell>
+                     <cell>☽</cell>
+                     <cell>♄</cell>
+                     <cell>♃</cell>
+                     <cell>♂</cell>
+                     <cell>☉</cell>
+                     <cell>♀</cell>
+                     <cell>☿</cell>
+                     <cell>☽</cell>
+                  </row>
+                  <row>
+                     <cell>Tuesday Night.</cell>
+                     <cell>♄</cell>
+                     <cell>♃</cell>
+                     <cell>♂</cell>
+                     <cell>☉</cell>
+                     <cell>♀</cell>
+                     <cell>☿</cell>
+                     <cell>☽</cell>
+                     <cell>♄</cell>
+                     <cell>♃</cell>
+                     <cell>♂</cell>
+                     <cell>☉</cell>
+                     <cell>♀</cell>
+                  </row>
+                  <row>
+                     <cell>Wednesday.</cell>
+                     <cell>♀</cell>
+                     <cell>☽</cell>
+                     <cell>♄</cell>
+                     <cell>♃</cell>
+                     <cell>♂</cell>
+                     <cell>☉</cell>
+                     <cell>♀</cell>
+                     <cell>☿</cell>
+                     <cell>☽</cell>
+                     <cell>♄</cell>
+                     <cell>♃</cell>
+                     <cell>♂</cell>
+                  </row>
+                  <row>
+                     <cell>Wednesday Night.</cell>
+                     <cell>☉</cell>
+                     <cell>♀</cell>
+                     <cell>☿</cell>
+                     <cell>☽</cell>
+                     <cell>♄</cell>
+                     <cell>♃</cell>
+                     <cell>♂</cell>
+                     <cell>☉</cell>
+                     <cell>♀</cell>
+                     <cell>☿</cell>
+                     <cell>☽</cell>
+                     <cell>♄</cell>
+                  </row>
+                  <row>
+                     <cell>Thursday.</cell>
+                     <cell>♃</cell>
+                     <cell>♂</cell>
+                     <cell>☉</cell>
+                     <cell>♀</cell>
+                     <cell>☿</cell>
+                     <cell>☽</cell>
+                     <cell>♄</cell>
+                     <cell>♃</cell>
+                     <cell>♂</cell>
+                     <cell>☉</cell>
+                     <cell>♀</cell>
+                     <cell>☿</cell>
+                  </row>
+                  <row>
+                     <cell>Thursday Night.</cell>
+                     <cell>☽</cell>
+                     <cell>♄</cell>
+                     <cell>♃</cell>
+                     <cell>♂</cell>
+                     <cell>☉</cell>
+                     <cell>♀</cell>
+                     <cell>☿</cell>
+                     <cell>☽</cell>
+                     <cell>♄</cell>
+                     <cell>♃</cell>
+                     <cell>♂</cell>
+                     <cell>☉</cell>
+                  </row>
+                  <row>
+                     <cell>Friday.</cell>
+                     <cell>♀</cell>
+                     <cell>☿</cell>
+                     <cell>☽</cell>
+                     <cell>♄</cell>
+                     <cell>♃</cell>
+                     <cell>♂</cell>
+                     <cell>☉</cell>
+                     <cell>♀</cell>
+                     <cell>☿</cell>
+                     <cell>☽</cell>
+                     <cell>♄</cell>
+                     <cell>♃</cell>
+                  </row>
+                  <row>
+                     <cell>Friday Night.</cell>
+                     <cell>♂</cell>
+                     <cell>☉</cell>
+                     <cell>♀</cell>
+                     <cell>☿</cell>
+                     <cell>☽</cell>
+                     <cell>♄</cell>
+                     <cell>♃</cell>
+                     <cell>♂</cell>
+                     <cell>☉</cell>
+                     <cell>♀</cell>
+                     <cell>☿</cell>
+                     <cell>☽</cell>
+                  </row>
+                  <row>
+                     <cell>Saturday.</cell>
+                     <cell>♄</cell>
+                     <cell>♃</cell>
+                     <cell>♂</cell>
+                     <cell>☉</cell>
+                     <cell>♀</cell>
+                     <cell>☿</cell>
+                     <cell>☽</cell>
+                     <cell>♄</cell>
+                     <cell>♃</cell>
+                     <cell>♂</cell>
+                     <cell>☉</cell>
+                     <cell>♀</cell>
+                  </row>
+                  <row>
+                     <cell>Saturday Night.</cell>
+                     <cell>☿</cell>
+                     <cell>☽</cell>
+                     <cell>♄</cell>
+                     <cell>♃</cell>
+                     <cell>♂</cell>
+                     <cell>☉</cell>
+                     <cell>♀</cell>
+                     <cell>☿</cell>
+                     <cell>☽</cell>
+                     <cell>♄</cell>
+                     <cell>♃</cell>
+                     <cell>♂</cell>
+                  </row>
+               </table>
+            </p>
+            <p>But for your better Understanding I have incerted a <hi>Planetary</hi> Table, shewing what <hi>Pla<g ref="char:EOLhyphen"/>net</hi> Reigns every hour of the day through out the Week, as for example, I would know what <hi>Planet</hi> rules on <hi>Sunday, June</hi> the 6th. at which time the <hi>Sun</hi> rises at three a Clock, which is the first hour of the day, for the beginning of the day is always counted from Sun-rising, which right again <hi>Sunday,</hi> under the figure of one, I find the ☉ rules at Sun-rising, being at three a Clock, ♀ at four a Clock, ☿ at five a Clock, and so on.</p>
+            <pb n="14" facs="tcp:39774:9"/>
+            <p>The Directions following are sufficient to enable any Person whatsoever, tho of never so mean a Capacity, provided he can but Read, and know what a Clock it is, may know when to gather an <hi>Herb</hi> in the right <hi>Planetary</hi> hour for every day in the year, that <hi>Herbs</hi> are fit to be gathered, pointing directly to the true time; so that you have no more trouble but to know what a Clock it is, and your expecta<g ref="char:EOLhyphen"/>tion is answer'd, which Rules are the same Perpetually.</p>
+            <p>As first, the true time to gather <hi>Herbs</hi> in <hi>A<g ref="char:EOLhyphen"/>pril,</hi> which if it be an <hi>Herb</hi> that the <hi>Sun</hi> do's rule, you may gather them on any <hi>Sunday</hi> in this Month, from 6 a Clock to 7 in the Morn<g ref="char:EOLhyphen"/>ing, and from 1 to 3 in the Afternoon; Al<g ref="char:EOLhyphen"/>ways observe, that if you are to gather <hi>Herbs</hi> of the <hi>Sun,</hi> then gather them on a <hi>Sunday,</hi> be<g ref="char:EOLhyphen"/>cause the <hi>Sun</hi> is <hi>Lord of that day,</hi> and on the <hi>Planetary</hi> Hour as I have shewn you before, for then the <hi>Herbs</hi> have a double Vertue.</p>
+            <p>In gathering <hi>Herbs</hi> on any <hi>Munday</hi> in this Month, the right time to gather <hi>Herbs</hi> that are govern'd by the <hi>Moon,</hi> is from 6 to 7 in the Morning, and from 1 to 3 in the Afternoon.</p>
+            <p>In gathering <hi>Herbs</hi> on any <hi>Tuesday</hi> in this Month, that is govern'd by <hi>Mars,</hi> is from 6 to 7 in the Morning, and from 1 to 3 in the Afternoon.</p>
+            <p>In gathering <hi>Herbs</hi> on any <hi>Wednesday</hi> in this Month, that is govern'd by <hi>Mercury,</hi> is from 6 to 7 in the Morning, and from 1 to 3 in the Afternoon.</p>
+            <pb n="15" facs="tcp:39774:9"/>
+            <p>In gathering <hi>Herbs</hi> on any <hi>Thursday</hi> in this Month, that is govern'd by <hi>Jupiter,</hi> is from 6 to 7 in the Morning, and from 1 to 3 in the Afternoon.</p>
+            <p>In gathering <hi>Herbs</hi> on any <hi>Friday</hi> in this Month, that is govern'd by <hi>Venus,</hi> is from 6 to 7 in the Morning, and from 1 to 3 in the Afternoon.</p>
+            <p>In gathering <hi>Herbs</hi> on any <hi>Saturday</hi> in this Month, that is govern'd by <hi>Saturn,</hi> is from 6 to 7 in the Morning, and from 1 to 3 in the Afternoon.</p>
+            <p>By observing the foregoing Rules, you may gather <hi>Herbs</hi> of the <hi>Sun</hi> in <hi>June</hi> on a <hi>Sunday</hi> from 5 to 6 in the Morning, and from 2 to 4 in the Afternoon; <hi>Herbs</hi> of the <hi>Moon</hi> on a <hi>Munday</hi> from 5 to 6 in the Morning, and from 2 to 4 in the Afternoon; <hi>Herbs</hi> of <hi>Mars</hi> on a <hi>Tuesday</hi> from 5 to 6 in the Morning, and from 2 to 4 in the Afternoon; <hi>Herbs</hi> of <hi>Mercury</hi> on a <hi>Wednesday,</hi> from 5 to 6 in the Morning, and from 2 to 4 in the Afternoon; <hi>Herbs</hi> of <hi>Jupiter</hi> on a <hi>Thursday,</hi> at the same hours; <hi>Herbs</hi> of <hi>Venus</hi> on a <hi>Friday</hi> at the same hours; <hi>Herbs</hi> of <hi>Saturn</hi> on a <hi>Saturday,</hi> at the same hours; this Rule will serve for ten days in <hi>July.</hi>
+            </p>
+            <p>In gathering <hi>Herbs</hi> on the first ten days of <hi>August,</hi> which you may gather any <hi>Herbs</hi> ac<g ref="char:EOLhyphen"/>cording to the foregoing rules from 5 to 7 in the Morning, and from 2 to 3 in the After<g ref="char:EOLhyphen"/>noon; and to the 20. day from 6 to 7 in the Morning, and from 2 to 3 in the Afternoon. Now I shall proceed to the Virtue of <hi>Herbs</hi>
+            </p>
+         </div>
+         <div type="recipes">
+            <pb n="16" facs="tcp:39774:10"/>
+            <head>For Curing <hi>Wens, Tumour,</hi> or <hi>Swelling,</hi> or any Rising in the Flesh, or <hi>Warts.</hi>
+            </head>
+            <p>TAke hot <hi>Asmart,</hi> called also <hi>Peachwort, Water Pepper,</hi> it hath no black spots as the Cold hath, it being a Weed of <hi>Mars,</hi> let it be gathered as directed, and put in cold Water, being well moistened, take it out and lay it to the place Defective, and let it lie on it till the <hi>Asmart</hi> be hot, then take it and Bury it in the Ground above two Foot deep, and as that doth rot or consume, so will the <hi>Wen</hi> or any of the other sink or grow less and less, till it be quite gone; for that which hath been long, do it twice.</p>
+            <div type="recipe">
+               <head>Vervaine.</head>
+               <p>
+                  <hi>Vervaine</hi> an <hi>Herb</hi> of <hi>Venus,</hi> being gathered as directed, and bruised and hung about the Neck, helps the <hi>Head-ach,</hi> the Distill'd Water of it, so gathered, droped into the <hi>Eyes,</hi> cleanseth them from all <hi>Mists, Films, Clouds</hi> that hinders the Sight, and wonderfully Strengtheneth the <hi>Optick Nerves;</hi> the Leaves in <hi>Syrrup</hi> or <hi>Decoction,</hi> helpeth all inward Pains and <hi>Lungs, Kidneys, Stone</hi> or <hi>Wounds,</hi> healeth <hi>Ʋlcers, Gangreens</hi> or <hi>Fistula</hi>'s, in any part of the Body.</p>
+            </div>
+            <div type="recipe">
+               <head>Wild Carrot Seeds.</head>
+               <p>Being under <hi>Mercury</hi> and taken in Wine, or Boyled in Wine, removes <hi>Stiches</hi> in the Sides, Provokes <hi>Ʋrin,</hi> and Womens <hi>Courses,</hi>
+                  <pb n="17" facs="tcp:39774:10"/> and helpeth to break and expel the <hi>Stone;</hi> for the <hi>Dropsie,</hi> and those whose Bellies are Swel<g ref="char:EOLhyphen"/>len wiih Wine, helpeth <hi>Collick,</hi> the <hi>Stone</hi> in the <hi>Kidneys,</hi> and the <hi>Rising of the Mother,</hi> it helpeth <hi>Conception;</hi> the Leaves applyed with <hi>Honey</hi> to Running Sores or <hi>Ʋlcers,</hi> it Cleanses them, and Heals them in a short time.</p>
+            </div>
+            <div type="recipe">
+               <head>Hop Seeds.</head>
+               <p>Take half a Dram of it in Powder in a lit<g ref="char:EOLhyphen"/>tle Drink, killeth the <hi>Worms</hi> in the Body, bringeth down Womens <hi>Courses,</hi> and Expel<g ref="char:EOLhyphen"/>eth <hi>Ʋrine.</hi>
+               </p>
+            </div>
+            <div type="recipe">
+               <head>Columbine.</head>
+               <p>Being under <hi>Venus,</hi> a Dram of the said <hi>Seeds</hi> taken in <hi>Wine</hi> with a little <hi>Saffron,</hi> openeth Obstructions of the <hi>Liver,</hi> and is good for the <hi>Yellow Jaundice,</hi> if the party after the taking thereof be laid to Sweat well in the Bed; It causeth a speedy Delivery of <hi>Women</hi> with Child, if one Draught suffice not, let her drink the second, and it is effectual.</p>
+            </div>
+            <div type="recipe">
+               <head>Cinke-foyle, or five Leav'd Grass.</head>
+               <p>Being gathered as directed is the best that grows, being an Herb of <hi>Jupiter,</hi> for curing of all kind of <hi>Agues,</hi> be it what <hi>Ague</hi> soever, being boyled in white Wine, or white Wine Vinegar, being strained out, and the Wine drank as hot as sufferabe two or three houres before the Fit, as Doctor <hi>Culpepper</hi> saith, <hi>he never knew it fail:</hi> I have had tryal of it above 12 years, I never knew it fail but it produced the desired effects at three times taking as most, by those that have had the <hi>Quartane</hi> a<g ref="char:EOLhyphen"/>bove
+<pb n="18" facs="tcp:39774:11"/> a year, there is no Doctor can prescribe a better remedy for <hi>Agues,</hi> the directions rightly observed, for every day, or every other days Ague, once or twice taking hath rid it away, some have taken it in strong Beer, Ale, Sider or Metheglim, it hath done the like; It cures the <hi>Gout</hi> in any part, and <hi>Sciatica,</hi> being boyled in red Wine and drank, it stops all <hi>Fluxes</hi> of Blood, and <hi>Red</hi> or <hi>White.</hi>
+               </p>
+            </div>
+            <div type="recipe">
+               <head>Henbane.</head>
+               <p>A Weed of <hi>Saturn,</hi> the root taken up as directed and dryed to powder, touch but the tooth that aketh with the powder, and it will fall out; the root taken up as aforesaid and dryed, and a Necklace made thereof and put round the neck of a Child that breedeth teeth, they cut the Gums and breed them without pain, they are to be hung a bout the neck as Bracelets are.</p>
+            </div>
+            <div type="recipe">
+               <head>Celandine.</head>
+               <p>Gather this herb as directed and when the Sun is in <hi>Leo in Trine</hi> to the Moon, and make an Oyntment of it with Hogs Lard, and anoynt your Eye-lids when you go to Bed, and in so doing it will take a way any Skins or <hi>Films</hi> that shall grow over the sight of the Eye; or else take <hi>Celandine, field Daises,</hi> and <hi>ground Ivy,</hi> cla<g ref="char:EOLhyphen"/>rified, and a little fine Shugar disolved therein, and droped into the Eye, is a soveraign remedy for Watering of them, for Paines, Redness; and also for the <hi>Pin, Web, Skins,</hi> and <hi>Films</hi> grow<g ref="char:EOLhyphen"/>ing over tht sight, it helpeth Beasts as well as Men; the Juice dropped into the Ears doth
+<pb n="19" facs="tcp:39774:11"/> wonderfully help the Noise and Singing of them, and hearing which is decayed.</p>
+            </div>
+            <div type="recipe">
+               <head>Lavender Corten.</head>
+               <p>Being an Herb under <hi>Mercury,</hi> and gather<g ref="char:EOLhyphen"/>ed as directed, resisteth <hi>Poison,</hi> Putrifaction, and helps the Bitings of <hi>Venomus Beasts;</hi> a Dram of the Powder of the dryed Leaves taken every morning fasting in any convenient Vehicle, stops the <hi>Runing of the Reins in Men,</hi> and <hi>Whites</hi> in <hi>Women;</hi> the Seed beaten into Powder and taken as <hi>Wormseed,</hi> it kills the <hi>Worms,</hi> not only in Children, but also in People of Riper years, the Herb it self being boyled in Milk and the Milk drunk, the body Bathed with it cures the <hi>Itch;</hi> the Decoction of it helps <hi>Scabs</hi> and <hi>Itch.</hi>
+               </p>
+            </div>
+            <div type="recipe">
+               <head>Ground Ivy.</head>
+               <p>Being an Herb of <hi>Venus,</hi> and gathered as directed, and a Decoction made of it and drunk in Wine for sometime together, procur<g ref="char:EOLhyphen"/>eth ease unto them that are troubled with the <hi>Sciatica</hi> or <hi>Hip Gout;</hi> as also the <hi>Gout</hi> in the <hi>Handa, Knees</hi> or <hi>Feet:</hi> If you put to the Deco<g ref="char:EOLhyphen"/>ction some Hony, and a little burnt Allum, it is excellent good to <hi>Gargle</hi> any Sore Mouth or Throat, and to wash the Sores and Vlcers in the Privy Parts of Man or Women; it speedily helpeth green Wounds, being bruised and bound thereunto; the Juyce of it boyled with a little Honey and Verdegreece doth wonderfully cleanse <hi>Fistulaes,</hi> and <hi>Ʋlcers;</hi> and strengthens the Spreading or Eating of <hi>Cancers</hi> or <hi>Ʋlcers.</hi>
+               </p>
+            </div>
+            <div type="recipe">
+               <pb n="20" facs="tcp:39774:12"/>
+               <head>Peletory of the Wall.</head>
+               <p>
+                  <hi>An Herb of</hi> Jupitur, <hi>as directed, and made into a Syrup, or the Juice Clarified, is an ex<g ref="char:EOLhyphen"/>cellent remedy for the</hi> Stone, <hi>and</hi> Gravel, <hi>to cleanse and heal the</hi> Kidneys, <hi>and</hi> Bladder, Ʋri<g ref="char:EOLhyphen"/>tory <hi>Passage; for Cleansing, boyle it in white Wine, for dissolving, make it in Syrrups to cleanse in white Wine.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="brief_uroscopy">
+            <list>
+               <head>A brief Judgment on <hi>Ʋrine,</hi> by the Colour and Contents.</head>
+               <item>
+                  <hi>1.</hi> URine fat and troubled, betokeneth a Burn<g ref="char:EOLhyphen"/>ing Feaver, Proceeding of Choler.</item>
+               <item>
+                  <hi>2.</hi> Red and thick all over, with a black circle, signifieth Sickness in all the Body.</item>
+               <item>
+                  <hi>3.</hi> White and thin, and little in quantity, shew<g ref="char:EOLhyphen"/>eth cold in the Body.</item>
+               <item>
+                  <hi>4.</hi> Clear with a black Circle, sheweth that the Sick Man hath the Ptysick.</item>
+               <item>
+                  <hi>5.</hi> Red and thin, with a bright Circle signifi<g ref="char:EOLhyphen"/>eth an evil Stomach.</item>
+               <item>
+                  <hi>6.</hi> Thin somewhat green a bove, signifieth a Cold complexion, and if it Shew blew above in the casting, it is the Ptisick.</item>
+               <item>
+                  <hi>7.</hi> Thin and black above in Casting, signifieth great loss of Nature.</item>
+               <item>
+                  <hi>8.</hi> Thick and troubled, like horse Piss, signifieth the Head Ach.</item>
+               <item>
+                  <hi>9.</hi> On the colour of Whey, with Slime flying up and down in it, signifieth the French Pox.</item>
+               <item>
+                  <hi>10.</hi> Fat in the bottom, and white in the midst and red above; signifieth a feaver Quartan.</item>
+               <pb n="21" facs="tcp:39774:12"/>
+               <item>
+                  <hi>11.</hi> Fat like flesh, and dregs in the bottom, as shaddowing, signifieth the Dropsie of cold; but if like Whey above, and clear in the middle, and sha<g ref="char:EOLhyphen"/>dowing beneath, it signifieth a hot Dropsie.</item>
+               <item>
+                  <hi>12.</hi> Black dregs, like gobbets of Coal in the bot<g ref="char:EOLhyphen"/>tom, signifieth Worms in the Body.</item>
+               <item>
+                  <hi>13.</hi> With black Contents, small as motes in the midest of the Ʋrine, signifieth an Imposthume under the Side.</item>
+               <item>
+                  <hi>14.</hi> Contents, like shavings of Parchment in the bottom, signifieth the stoping of the Reins and of the Pipes of the Liver.</item>
+               <item>
+                  <hi>15.</hi> Black and green of Colour, with long white contents in the same, signifieth the Palsie.</item>
+               <item>
+                  <hi>16.</hi> Grains under the Circle, signifieth that the stomach is full of Worms, burning of the Heart.</item>
+               <item>
+                  <hi>17.</hi> Foul above, signifieth heat in the Heart, Lungs and Spleen.</item>
+               <item>
+                  <hi>18.</hi> Contents with blackness in the bottom signifi<g ref="char:EOLhyphen"/>eth Costiveness in the body.</item>
+               <item>
+                  <hi>19.</hi> Long lasting, signifieth Biting in the Body and great Rheum.</item>
+               <item>
+                  <hi>20.</hi> Thick, little and high coloured, signifieth great burning in the Body.</item>
+               <item>
+                  <hi>21.</hi> Frothy, clear, and little red, sheweth Pain under the right Side.</item>
+               <item>
+                  <hi>22.</hi> Frothy, signifieth wind and pain under the left Side.</item>
+               <item>
+                  <hi>23.</hi> Red as a Coalt, signifieth an Imposthume in the Liver.</item>
+               <item>
+                  <hi>24</hi> Red as burnt Gold, if it be <hi>Hydropick,</hi> signifieth Death.</item>
+               <item>
+                  <hi>25.</hi> Divers colours in ones Ʋrine which is to say,
+<pb n="22" facs="tcp:39774:13"/> Red, Black, Green, and Blew, in a hot Feaver, signifieth Death.</item>
+               <item>
+                  <hi>26.</hi> Black and a little Fat and Stinking, in a hot <hi>Axis,</hi> Death.</item>
+               <item>
+                  <hi>27.</hi> Lead Colour all over, signifieth a prolonging of Death.</item>
+               <item>
+                  <hi>28.</hi> Dark above, and clear beneath, signifieth Death.</item>
+               <item>
+                  <hi>29.</hi> Shining raw and bright, and the skin in the bottom, signifieth Death.</item>
+               <item>
+                  <hi>30.</hi> Thin fleeting above, like a dark Sky, signifieth Death.</item>
+               <item>
+                  <hi>31.</hi> Drossie, stinking and dark Sky within, signifi<g ref="char:EOLhyphen"/>eth prolonging of Death</item>
+               <item>
+                  <hi>32.</hi> White as water, with a dark Sky in a feaver, signifieth Death</item>
+               <item>
+                  <hi>33.</hi> Dregs in the bottom, mixed with Blood beto<g ref="char:EOLhyphen"/>keneth Death.</item>
+               <item>
+                  <hi>34.</hi> Black and thin, if the Sick loath when he go<g ref="char:EOLhyphen"/>eth to stool, and that he speak overthwart, or under stand not a right, and that the sickness depart not, it signifieth Death.</item>
+            </list>
+            <list>
+               <head>Vrines of Women.</head>
+               <item>
+                  <hi>1.</hi> WHite, heavy and stinking, signifieth pain in the Reins, and Mother, and sickness of Cole.</item>
+               <item>
+                  <hi>2.</hi> Fat fleeting above, signifieth pain in the Reins of the Back.</item>
+               <item>
+                  <hi>3.</hi> Black contents in the bottom, sheweth falling of the Flowers.</item>
+               <pb n="23" facs="tcp:39774:13"/>
+               <item>
+                  <hi>4.</hi> White contents in the bottom, signifieth much falling of her Flowers.</item>
+               <item>
+                  <hi>5.</hi> Colour of Linseed, with a Flux, signifieth death of the Woman.</item>
+               <item>
+                  <hi>6.</hi> Bright as Gold, signifieth she lusteth for a Man.</item>
+               <item>
+                  <hi>7.</hi> Also in Woman with Child, their Ʋrines are clear, and diversly coloured.</item>
+               <item>
+                  <hi>8.</hi> And from the beginning, there appeareth con<g ref="char:EOLhyphen"/>tents like Carded Wool.</item>
+               <item>
+                  <hi>9.</hi> Also there seem certain grains or small notes Swiming about up and down in the Ʋrine, and sometimes a thing like black Ink and some filthy contents.</item>
+               <item>
+                  <hi>10.</hi> If she be with Child, the Ʋrine will have some clear streaks, and the most part shall be troubl<g ref="char:EOLhyphen"/>ed, the troubledness shall be Redish, in the manner of Tawny, and these tokens do at no time fail, as soon as the Child shall have Life.</item>
+               <item>
+                  <hi>11.</hi> If it be a Man-Child, as soon as it hath life, the troubledness shall be thickest above.</item>
+               <item>
+                  <hi>12.</hi> If it be a Maiden Child, the troubledness shall be beneath.</item>
+               <item>
+                  <hi>13.</hi> Also, if thou may'st see thy face in the Vrine of a Woman, and that she have no feaver, and the Vrine having in it tawny contents, then she is with Child, and these tokens never fail.</item>
+               <item>
+                  <hi>14.</hi> Also Vrine of a woman white as whey, having also a Cloud in the bottom, with white showrings, sheweth she is with Child.</item>
+               <item>
+                  <hi>15.</hi> Likewise Ʋrine of Women, read as Gold, with a Watery Circle aboue, signifieth she is with Child.</item>
+               <item>
+                  <hi>16.</hi> Also, colour of Lead, if she be with Child,
+<pb n="24" facs="tcp:39774:14"/> signifieth the Child is Dead; if she be with Child, and that the Ʋrine be Lead colour, and stinking, it signifieth that the Matrix is Rotten.</item>
+            </list>
+         </div>
+         <div type="astrological_medical_guide">
+            <head>To Judge the Danger of falling Sick by the Age of the Moon.</head>
+            <list>
+               <item>
+                  <hi>1.</hi> HE that falleth Sick on the first day of the Moon shall Dye, if the Sickness be very Fierce and Tedious. <hi>D.</hi>
+               </item>
+               <item>
+                  <hi>2.</hi> Altho' he be sore Sick, yet he shall be cured. <hi>R.</hi>
+               </item>
+               <item>
+                  <hi>3.</hi> He may with due regard in Physick be recover'd. <hi>R.</hi>
+               </item>
+               <item>
+                  <hi>4.</hi> Shall very soon be restored. <hi>R.</hi>
+               </item>
+               <item>
+                  <hi>5.</hi> Promiseth his cure after ten days. <hi>R.</hi>
+               </item>
+               <item>
+                  <hi>6.</hi> No danger, but speedy Health. <hi>R.</hi>
+               </item>
+               <item>
+                  <hi>7.</hi> Injoy Life but three Months. <hi>D.</hi>
+               </item>
+               <item>
+                  <hi>8.</hi> Languish a long time. <hi>L. S.</hi>
+               </item>
+               <item>
+                  <hi>9.</hi> Recover Health after Nine Days. <hi>R.</hi>
+               </item>
+               <item>
+                  <hi>10.</hi> Recover after Ten Days. <hi>R.</hi>
+               </item>
+               <item>
+                  <hi>11.</hi> Very long Sick, yet recover Health. <hi>L. R.</hi>
+               </item>
+               <item>
+                  <hi>12.</hi> Amend after Twelve Days. <hi>R.</hi>
+               </item>
+               <item>
+                  <hi>13.</hi> A long and grievous Sickness. <hi>L. S.</hi>
+               </item>
+               <item>
+                  <hi>14.</hi> Soon restored, tho' it comes Fiercely. <hi>R.</hi>
+               </item>
+               <item>
+                  <hi>15.</hi> Easily escape Death. <hi>R.</hi>
+               </item>
+               <item>
+                  <hi>16.</hi> Great danger of Death, if he take the Air. <hi>Dan.</hi>
+               </item>
+               <item>
+                  <hi>17.</hi> No Physick will prevail. <hi>D.</hi>
+               </item>
+               <item>
+                  <hi>18.</hi> A good day, easily Recovered. <hi>R.</hi>
+               </item>
+               <item>
+                  <hi>19.</hi> A good day, easily Recovered. <hi>R.</hi>
+               </item>
+               <item>
+                  <hi>20.</hi> A good day, easily Recovered. <hi>R.</hi>
+               </item>
+               <item>
+                  <hi>21.</hi> Sickness Mortal and Incurable. <hi>D.</hi>
+               </item>
+               <item>
+                  <hi>22.</hi> Long Sick, but escape after <hi>3</hi> Months. <hi>L. S.</hi>
+               </item>
+               <item>
+                  <hi>23.</hi> After few days he shall Dye. <hi>D.</hi>
+               </item>
+               <pb n="25" facs="tcp:39774:14"/>
+               <item>
+                  <hi>24.</hi> Long time in Sickness. <hi>L. S.</hi>
+               </item>
+               <item>
+                  <hi>25.</hi> Are all days of Recovery. <hi>R.</hi>
+               </item>
+               <item>
+                  <hi>26.</hi> Are all days of Recovery. <hi>R.</hi>
+               </item>
+               <item>
+                  <hi>27.</hi> Are all days of Recovery. <hi>R.</hi>
+               </item>
+               <item>
+                  <hi>28.</hi> Are all days of Recovery. <hi>R.</hi>
+               </item>
+               <item>
+                  <hi>29.</hi> Are all days of Recovery. <hi>R.</hi>
+               </item>
+               <item>
+                  <hi>30.</hi> Hardly Escape with many Medicines. <hi>Dan.</hi>
+               </item>
+            </list>
+         </div>
+         <div type="recipes">
+            <div type="recipe">
+               <head>Secrets to Judge of Life and Death in a Sick Body.</head>
+               <p>
+                  <hi>First,</hi> Take a Marigold, and put into the Ʋrine of the Sick, if it keeps open, they will Live, if it closes, they'l Die.</p>
+               <p>
+                  <hi>Second,</hi> Also it is said of some, that it may be known by speaking Two Words at the Bed-side, <hi>viz. Ancora Pancorene,</hi> and if he hear it, it notes Life, if not, Death.</p>
+            </div>
+            <div type="recipe">
+               <head>The Kings Evill.</head>
+               <p>Take Barly Flower, Tar, Wax, and Oyl, of each a like quantity, mix all together, and Seeth it well, and put it into a little Piss of a young Child, and stirring it well about, lay it upon the Sore Plaister wise.</p>
+            </div>
+            <div type="recipe">
+               <head>A rule to know the Kings Evil by.</head>
+               <p>Take a ground Worm alive and lay it upon the place, and cover him with a Leaf, if it be the <hi>Kings Evil,</hi> the Worm will change and turn into Earth, if not he will remain alive.</p>
+            </div>
+            <div type="recipe">
+               <pb n="26" facs="tcp:39774:15"/>
+               <head>A Secret to Stanch Blood.</head>
+               <p>Take the blood of healthful men and dry it in the Sun, and make it into powder.</p>
+            </div>
+            <div type="recipe">
+               <head>To stop Womens Courses.</head>
+               <p>Take a Toad and bind him with a little band, and hang it about the womans Neck that hath that infirmitie, and in few days she will be cur'd.</p>
+            </div>
+            <div type="recipe">
+               <head>Against Wrye Necks or Gouts.</head>
+               <p>Take the stone of a Beaver, called <hi>Castoreum,</hi> white Pepper and Pursley of each alike, beat altogether and sift them, take a Spoonful of it and put in so much Honey, and two mouth<g ref="char:EOLhyphen"/>fulls of hot Water, and give it the patient to drink before Breakefast, and he shall be healed.</p>
+            </div>
+            <div type="recipe">
+               <head>For a Quartane Ague.</head>
+               <p>Take <hi>Asrabacca</hi> one Dram, and give it the Patient one hour before the fit comes, in white wine, it Purges upwards and downwards.</p>
+            </div>
+            <div type="recipe">
+               <head>For one that cannot make Water.</head>
+               <p>Take a Flint stone, put it into the fire till its red hot, and there with warm your Ale, then drink it.</p>
+            </div>
+            <div type="recipe">
+               <pb n="27" facs="tcp:39774:15"/>
+               <head>How to make the Antidote Powder, called, <hi>The Orvietan of</hi> Rome, a Cordial.</head>
+               <p>Angelica root, Serpent, Contrierva root, Calanga root, Dictamus root, Aristolocnia root, Gentian root, Arris root, Casamus, Ze<g ref="char:EOLhyphen"/>doary root, Acorus root, Agarick, Ginger root, <hi>ana</hi> ʒ <hi>i.</hi> Peratterum ʒ <hi>iv.</hi> Trochisk ʒ <hi>ii.</hi> Vipers Flesh, Red Roses, Dictmnus leaves, Sarubucum Leaves, Saffron, <hi>ana</hi> 40 <hi>gr.</hi> Anni seeds, Parsly-seeds, Fennel seeds, Caraway-seeds, Cummin-seeds, Dasie-seeds, Cisilias-seeds, Cardamum, Cubeb, <hi>ana</hi> 30 <hi>gr.</hi> Cloves, Cinnamon, Gascoynes Powder, Nutmeg, white Pepper, Co<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lander, <hi>ana</hi> 40 <hi>gr.</hi> Lemniam earth, Storax, Calamit, Juniper Berries, Elicampane, <hi>ana</hi> ʒ <hi>i.</hi> Curcuma Root ʒ <hi>iii.</hi> Sagaveny, Opa<g ref="char:EOLhyphen"/>panar, <hi>ana</hi> ʒ <hi>i.</hi> beat all these fine to a Powder, and this is the true <hi>O<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vietane</hi> Powder; And mix it with pure fine Honey, and it makes the true <hi>Roman Orvietane,</hi> which Expelleth Poyson out of the Body.</p>
+            </div>
+            <div type="recipe">
+               <head>To take away Pearls, Films from the Eyes.</head>
+               <p>Take Honey, Juice of Cellandine, <hi>ana</hi> ℥ <hi>iv.</hi> Aloes, Scammony, Sarcocol in fine Powder, <hi>ana</hi> ʒ <hi>iv.</hi> Lapis Tutia prepared, mix them well together, and put it into the Eye every Night going to Bed, and every Morning before Ris<g ref="char:EOLhyphen"/>ing.</p>
+            </div>
+            <div type="recipe">
+               <pb n="28" facs="tcp:39774:16"/>
+               <head>
+                  <hi>Elixir Vitae,</hi> or, Elixir of Life.</head>
+               <p>Take of Rosemary, Lavender, Saffron, Ca<g ref="char:EOLhyphen"/>stor, and of our Treacle, <hi>ana</hi> ℥ <hi>iv.</hi> Rectified Spirit of Wine Tartarised, lb <hi>x.</hi> digest all for three Months, Decant of the Tincture, to which add Clarified Honey, ℥ <hi>vi.</hi> the Essence of Bawm and Celandine, <hi>ana</hi> ℥ <hi>iii.</hi> Circulate all for a Month, and keep it for use.</p>
+               <p>
+                  <hi>The Virtues of this</hi> Elixir <hi>are great in Curing and Preventing the</hi> Vertigo, Falling Sickness, Apoplexy, Palsie, Madness, Melancholly, Swounding, Asthma, <hi>and all Diseases of the Stomach, the</hi> Terms, <hi>and helping the</hi> Green Sick<g ref="char:EOLhyphen"/>ness, <hi>Dose</hi> ℈ <hi>i. or</hi> ʒ <hi>i. in a convenient Vehicle.</hi>
+               </p>
+            </div>
+            <div type="recipe">
+               <head>Gascoins Powder.</head>
+               <p>Which Secret he sold to the Bishop of <hi>Wor<g ref="char:EOLhyphen"/>cester</hi> for 300 <hi>l.</hi> I will give it freely. Take the Toes of Sea-crabs boyled, beat them to Powder, which must be done the ☉ and ☽ be<g ref="char:EOLhyphen"/>ing in Cancer ♋; of this Powder take ℥ <hi>i.</hi> of the Magistery of Coral and Pearl <hi>ana</hi> ʒ <hi>ii.</hi> of the true Bezoar ʒ<hi>i.</hi> make Rolls with the Jelly of Vipers Skins, or if thou wilt of the Flesh of the whole Vipers, which is as good, and being dryed let them be made up again, and dryed with the same Jelly, the oftener you do it, the better; the use of it is to beat it into Powder, and to give from ℈ <hi>i.</hi> to ℈ <hi>ii.</hi> almost in any Disease, repeating it often.</p>
+            </div>
+            <div type="recipe">
+               <pb n="29" facs="tcp:39774:16"/>
+               <head>The Royal Styptick Water.</head>
+               <p>Which stops Blood, also good for Watery Eyes, Rheumatick Eyes, Inflamation of the Eyes, Pin or Web, and makes the Eye look Fair and Lovely. Take Colcothar, or Red Vi<g ref="char:EOLhyphen"/>triol that remains in the Retort after the Spi<g ref="char:EOLhyphen"/>rit is drawn out; Burnt Allum, Sugar Candy, <hi>ana</hi> ʒ <hi>ss.</hi> the Urine of a Healthful Young Per<g ref="char:EOLhyphen"/>son, Rose Water, <hi>ana</hi> ℥ <hi>ss.</hi> Plantaine Water, ℥ <hi>ii.</hi> Stir them altogether a good while in a Mortar, then power the mixture into a Viol, which when you use it seperate by inclination; Note, when taken Inwardly ʒ <hi>ss.</hi> or ʒ <hi>i.</hi> may be taken at any time in <hi>Knot-grass Water.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="notice">
+            <pb facs="tcp:39774:17"/>
+            <head>Avertisement.</head>
+            <p>IN <hi>Camamile-street</hi> at the <hi>Sarazens Head Inn</hi> near <hi>Bishops Gate,</hi> are Sold most Excellent and well aproved <hi>PILLS</hi> for Six Pence the Dose, which Cures the Dropsy, Scurvy, Black and Yellow Jaundice, Tertian, Quartan and Quotidian Ague, Stoppage of the Liver, Coldness of the Stomach, Pains in the Head, or Swimings, against the Grip<g ref="char:EOLhyphen"/>ings in the Guts, Ʋlcers in the Rein, Kidneys and Bladder, and is very Powerful against the <hi>French Pox,</hi> they open the Obstructions in the Womb, and Cleanseth it from all Impurities; it Cleanseth the whole Mass of Blood, and Purgeth both Thick and Thin Humours, it Purgeth the Head, Sharpens the Sight, Quickens the Memory, and adds a good Co<g ref="char:EOLhyphen"/>lour to the Face, stays Flux of Blood, and Kills Worms in Young or Old. Also, such as are desi<g ref="char:EOLhyphen"/>rous may be Resolved in all Lawful Questions de<g ref="char:EOLhyphen"/>pending on that Noble Art of Astrology, at the a<g ref="char:EOLhyphen"/>bove mentioned place.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
